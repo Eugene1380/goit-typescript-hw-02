@@ -14,3 +14,4 @@ export default async function getImages(searchImage: string, page: number) {
   });
   return response.data;
 }
+ 
